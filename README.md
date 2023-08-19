@@ -7,3 +7,7 @@ Global Superstore is a well-known retail company that operates worldwide, sellin
 
 ### 1. Business situation of the company
 <img width="1290" alt="Screenshot 2023-08-19 at 21 55 04" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/9fc1cd2f-5220-476a-9311-133e86a2c4f4">
+
+<img width="1291" alt="Screenshot 2023-08-19 at 21 55 22" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/29ff547e-2e45-4a31-88d6-6c2f1e530b96">
+
+<img width="1291" alt="Screenshot 2023-08-19 at 21 55 40" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/fee35a04-5fab-45ab-aa99-3dd7fa2933ff">
