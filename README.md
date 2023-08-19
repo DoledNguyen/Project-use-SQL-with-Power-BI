@@ -10,4 +10,8 @@ Global Superstore is a well-known retail company that operates worldwide, sellin
 
 <img width="1291" alt="Screenshot 2023-08-19 at 21 55 22" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/29ff547e-2e45-4a31-88d6-6c2f1e530b96">
 
+- Technology and furniture products are considered durable goods, thus commanding higher prices, leading to greater profitability. It is also evident that 4 out of the top 5 highest-selling products belong to the technology and furniture product lines.
+
+(Các sản phẩm công nghệ và nội thất được coi là hàng hóa lâu bền, do đó có giá cao hơn, dẫn đến lợi nhuận cao hơn. Ngoài ra có thể thấy 4 trong số 5 sản phẩm bán chạy nhất thuộc về dòng sản phẩm công nghệ và nội thất.)
+
 <img width="1291" alt="Screenshot 2023-08-19 at 21 55 40" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/fee35a04-5fab-45ab-aa99-3dd7fa2933ff">
