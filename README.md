@@ -63,7 +63,7 @@ Shipping costs No significant impact on revenue and profit fluctuations. Standar
 => Sử dụng chế độ Second Class nhiều hơn để giảm thiểu Chi phí Vận chuyển, Tìm giải pháp giảm ngày giao hàng để tối ưu hóa chi phí vận chuyển. Cần xem xét lại chiến lược logistics hiện tại.)
 ***
 
-### Customer Analysis
+### 4.Customer Analysis
 
 <img width="1254" alt="Screenshot 2023-08-22 at 11 43 11" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/c98c8d9a-936c-442e-87e7-cddfd3060289">
 <img width="1253" alt="Screenshot 2023-08-22 at 11 43 33" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/d8bbc964-ef42-4676-a458-6bfb94f1c2e5">
@@ -75,6 +75,40 @@ The number of customers increased over time, along with the profit. The largest 
 (Số lượng khách hàng tăng dần theo thời gian, cùng với đó là lợi nhuận. Phần lớn thị phần do người tiêu dùng nắm giữ, chiếm một nửa tổng thị phần. Châu Á Thái Bình Dương có số lượng khách nhiều nhất.)
 
 ***
+
+### 5. Customer Segmentation 
+<img width="1258" alt="Screenshot 2023-08-22 at 13 07 10" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/06c9c155-339c-464f-bc5d-50ddc59e1d6a">
+<img width="1253" alt="Screenshot 2023-08-22 at 13 07 32" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/118ac9fe-ba5c-4a14-ae61-db17c257350f"><img width="1252" alt="Screenshot 2023-08-22 at 13 08 40" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/8e8610ae-187a-4c2e-84ab-4169dad0d434">
+<img width="1251" alt="Screenshot 2023-08-22 at 13 09 13" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/6d081129-d5ca-46de-a830-7b29cd51a25b">
+<img width="1251" alt="Screenshot 2023-08-22 at 13 09 24" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/a9512688-387c-4102-a00d-4ce3d5fa8176">
+
+***
+
+The Lost Customers rate is quite high, it is necessary to review the customer retention strategy, especially with the Lost Customers segment. Find ways to enhance the value of your product or service. Up sale for loyal customers.
+
+(Tỷ lệ Lost Customers khá cao, cần xem lại chiến lược giữ chân khách hàng, đặc biệt với phân khúc Lost Customers . Tìm cách để nâng cao giá trị của sản phẩm hoặc dịch vụ của bạn. Up sell đối với nhóm khách hàng trung thành.)
+
+***
+
+
+
+<img width="1251" alt="Screenshot 2023-08-22 at 15 12 53" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/58bca871-b7d3-4c8c-a56c-c7f6fff03272">
+
+# III. Conclusion 
+<img width="1253" alt="Screenshot 2023-08-22 at 15 13 07" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/074ad144-830a-4b88-ac4d-b628c83e6126">
+
+***
+
+The company's business situation is progressing quite well, with consistent annual revenue growth and a notable increase in the number of orders sold. However, there are fluctuations in quarterly revenue. The initial quarters usually witness fewer orders and lower revenue compared to the later quarters. It's important for us to consider adjusting the appropriate product offerings and reevaluating the market to enhance sales.
+The customer churn rate is also relatively high, which could have negative implications for the company's future. Therefore, it's crucial to revamp customer service, enhance user experience, and improve quality. Additionally, for the product categories contributing significantly to the company's revenue, there should be a concentrated effort to further strengthen their development.
+
+(Tình hình kinh doanh của công ty đang tiến triển khá tốt với doanh thu tăng trưởng đều hàng năm và số lượng đơn hàng bán ra tăng đáng kể. Tuy nhiên, doanh thu hàng quý có sự biến động. Các quý đầu tiên thường có ít đơn hàng hơn và doanh thu thấp hơn so với các quý sau. Điều quan trọng là chúng ta phải xem xét điều chỉnh việc cung cấp sản phẩm phù hợp và đánh giá lại thị trường để nâng cao doanh số bán hàng.
+Tỷ lệ khách hàng rời bỏ cũng tương đối cao, điều này có thể có tác động tiêu cực đến tương lai của công ty. Do đó, cần phải cải tiến dịch vụ khách hàng, nâng cao trải nghiệm người dùng và cải thiện chất lượng. Bên cạnh đó, đối với những ngành hàng đóng góp đáng kể vào doanh thu của công ty thì cần tập trung đẩy mạnh phát triển hơn nữa.)
+
+
+***
+
+
 
 
 
