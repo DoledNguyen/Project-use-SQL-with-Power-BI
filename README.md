@@ -48,7 +48,6 @@ Stop selling Table products. Do more market research. Focus on selling products 
 ***
 
 ### 3. Product Delivery
-
 <img width="1252" alt="Screenshot 2023-08-21 at 15 11 26" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/0ddd772e-ac06-45b8-bd4f-4372d56e1da7">
 <img width="1249" alt="Screenshot 2023-08-21 at 15 11 43" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/9a1bd1e3-b5eb-4fa8-8795-1918a86b5255">
 <img width="1253" alt="Screenshot 2023-08-21 at 15 12 00" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/0e202db2-6c7b-455d-a6ef-42ba2623f24a">
@@ -63,3 +62,19 @@ Shipping costs No significant impact on revenue and profit fluctuations. Standar
 
 => Sử dụng chế độ Second Class nhiều hơn để giảm thiểu Chi phí Vận chuyển, Tìm giải pháp giảm ngày giao hàng để tối ưu hóa chi phí vận chuyển. Cần xem xét lại chiến lược logistics hiện tại.)
 ***
+
+### Customer Analysis
+
+<img width="1254" alt="Screenshot 2023-08-22 at 11 43 11" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/c98c8d9a-936c-442e-87e7-cddfd3060289">
+<img width="1253" alt="Screenshot 2023-08-22 at 11 43 33" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/d8bbc964-ef42-4676-a458-6bfb94f1c2e5">
+
+***
+
+The number of customers increased over time, along with the profit. The largest portion of the market share is held by consumers, comprising half of the total. Asia Pacific has the largest number of visitors.
+
+(Số lượng khách hàng tăng dần theo thời gian, cùng với đó là lợi nhuận. Phần lớn thị phần do người tiêu dùng nắm giữ, chiếm một nửa tổng thị phần. Châu Á Thái Bình Dương có số lượng khách nhiều nhất.)
+
+***
+
+
+
