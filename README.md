@@ -37,6 +37,7 @@ The revenue has steadily increased over the years, with a noticeable uptrend in 
 <img width="1250" alt="Screenshot 2023-08-20 at 10 10 51" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/a12840d7-b85b-49f2-9f44-f75ecdce4a29">
 <img width="1248" alt="Screenshot 2023-08-20 at 10 11 06" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/1ca9a920-e333-4b86-843a-bfbaea2dc5db">
 <img width="1251" alt="Screenshot 2023-08-20 at 10 11 23" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/04addabd-4f2e-4384-b857-c14c235ee0bf">
+<img width="1026" alt="Screenshot 2023-09-15 at 04 16 20" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/6307614d-ba30-4787-a691-19367ae3d286">
 <img width="1255" alt="Screenshot 2023-08-20 at 10 12 15" src="https://github.com/DoledNguyen/Project-use-SQL-with-Power-BI/assets/129746147/bba01918-ef57-45a4-906d-7de50ade619d">
 
 ***
